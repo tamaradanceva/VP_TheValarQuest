@@ -1,0 +1,12 @@
+D:\Documents\Visual Studio 2010\Projects\The Valar Quest\The Valar Quest\bin\Debug\The Valar Quest.exe
+D:\Documents\Visual Studio 2010\Projects\The Valar Quest\The Valar Quest\bin\Debug\The Valar Quest.pdb
+D:\Documents\Visual Studio 2010\Projects\The Valar Quest\The Valar Quest\obj\x86\Debug\The_Valar_Quest.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\The Valar Quest\The Valar Quest\obj\x86\Debug\The Valar Quest.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2010\Projects\The Valar Quest\The Valar Quest\obj\x86\Debug\The Valar Quest.exe
+D:\Documents\Visual Studio 2010\Projects\The Valar Quest\The Valar Quest\obj\x86\Debug\The Valar Quest.pdb
+D:\Documents\Visual Studio 2010\Projects\The Valar Quest\The Valar Quest\obj\x86\Debug\The_Valar_Quest.MainMenu.resources
+D:\Documents\Visual Studio 2010\Projects\The Valar Quest\The Valar Quest\obj\x86\Debug\The_Valar_Quest.Game.resources
+D:\Documents\Visual Studio 2010\Projects\The Valar Quest\The Valar Quest\obj\x86\Debug\The_Valar_Quest.ChooseCharacter.resources
+D:\Documents\Visual Studio 2010\Projects\The Valar Quest\The Valar Quest\obj\x86\Debug\The_Valar_Quest.How_to_play.resources
+D:\Documents\Visual Studio 2010\Projects\The Valar Quest\The Valar Quest\obj\x86\Debug\The_Valar_Quest.Map.resources
+D:\Documents\Visual Studio 2010\Projects\The Valar Quest\The Valar Quest\obj\x86\Debug\The_Valar_Quest.Challenge.resources
